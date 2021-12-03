@@ -1,0 +1,1322 @@
+[
+  {
+    "Year": 2000,
+    "Month": "Jan",
+    "Inflation_Factor": 0.645304341
+  },
+  {
+    "Year": 2001,
+    "Month": "Jan",
+    "Inflation_Factor": 0.669388566
+  },
+  {
+    "Year": 2002,
+    "Month": "Jan",
+    "Inflation_Factor": 0.677034353
+  },
+  {
+    "Year": 2003,
+    "Month": "Jan",
+    "Inflation_Factor": 0.69461966
+  },
+  {
+    "Year": 2004,
+    "Month": "Jan",
+    "Inflation_Factor": 0.707999786
+  },
+  {
+    "Year": 2005,
+    "Month": "Jan",
+    "Inflation_Factor": 0.729025697
+  },
+  {
+    "Year": 2006,
+    "Month": "Jan",
+    "Inflation_Factor": 0.758079684
+  },
+  {
+    "Year": 2007,
+    "Month": "Jan",
+    "Inflation_Factor": 0.773814712
+  },
+  {
+    "Year": 2008,
+    "Month": "Jan",
+    "Inflation_Factor": 0.806936257
+  },
+  {
+    "Year": 2009,
+    "Month": "Jan",
+    "Inflation_Factor": 0.807177099
+  },
+  {
+    "Year": 2010,
+    "Month": "Jan",
+    "Inflation_Factor": 0.828371218
+  },
+  {
+    "Year": 2011,
+    "Month": "Jan",
+    "Inflation_Factor": 0.841888968
+  },
+  {
+    "Year": 2012,
+    "Month": "Jan",
+    "Inflation_Factor": 0.866516045
+  },
+  {
+    "Year": 2013,
+    "Month": "Jan",
+    "Inflation_Factor": 0.880335803
+  },
+  {
+    "Year": 2014,
+    "Month": "Jan",
+    "Inflation_Factor": 0.894235842
+  },
+  {
+    "Year": 2015,
+    "Month": "Jan",
+    "Inflation_Factor": 0.893436857
+  },
+  {
+    "Year": 2016,
+    "Month": "Jan",
+    "Inflation_Factor": 0.905704521
+  },
+  {
+    "Year": 2017,
+    "Month": "Jan",
+    "Inflation_Factor": 0.928347516
+  },
+  {
+    "Year": 2018,
+    "Month": "Jan",
+    "Inflation_Factor": 0.947569022
+  },
+  {
+    "Year": 2019,
+    "Month": "Jan",
+    "Inflation_Factor": 0.962268046
+  },
+  {
+    "Year": 2020,
+    "Month": "Jan",
+    "Inflation_Factor": 0.986195533
+  },
+  {
+    "Year": 2021,
+    "Month": "Jan",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2000,
+    "Month": "Feb",
+    "Inflation_Factor": 0.64559301
+  },
+  {
+    "Year": 2001,
+    "Month": "Feb",
+    "Inflation_Factor": 0.668405484
+  },
+  {
+    "Year": 2002,
+    "Month": "Feb",
+    "Inflation_Factor": 0.676009642
+  },
+  {
+    "Year": 2003,
+    "Month": "Feb",
+    "Inflation_Factor": 0.696160661
+  },
+  {
+    "Year": 2004,
+    "Month": "Feb",
+    "Inflation_Factor": 0.707947105
+  },
+  {
+    "Year": 2005,
+    "Month": "Feb",
+    "Inflation_Factor": 0.729238748
+  },
+  {
+    "Year": 2006,
+    "Month": "Feb",
+    "Inflation_Factor": 0.755473093
+  },
+  {
+    "Year": 2007,
+    "Month": "Feb",
+    "Inflation_Factor": 0.77371927
+  },
+  {
+    "Year": 2008,
+    "Month": "Feb",
+    "Inflation_Factor": 0.804873505
+  },
+  {
+    "Year": 2009,
+    "Month": "Feb",
+    "Inflation_Factor": 0.806774544
+  },
+  {
+    "Year": 2010,
+    "Month": "Feb",
+    "Inflation_Factor": 0.8240664
+  },
+  {
+    "Year": 2011,
+    "Month": "Feb",
+    "Inflation_Factor": 0.841434296
+  },
+  {
+    "Year": 2012,
+    "Month": "Feb",
+    "Inflation_Factor": 0.865592706
+  },
+  {
+    "Year": 2013,
+    "Month": "Feb",
+    "Inflation_Factor": 0.882713468
+  },
+  {
+    "Year": 2014,
+    "Month": "Feb",
+    "Inflation_Factor": 0.892655904
+  },
+  {
+    "Year": 2015,
+    "Month": "Feb",
+    "Inflation_Factor": 0.892431582
+  },
+  {
+    "Year": 2016,
+    "Month": "Feb",
+    "Inflation_Factor": 0.901514748
+  },
+  {
+    "Year": 2017,
+    "Month": "Feb",
+    "Inflation_Factor": 0.926197845
+  },
+  {
+    "Year": 2018,
+    "Month": "Feb",
+    "Inflation_Factor": 0.946683447
+  },
+  {
+    "Year": 2019,
+    "Month": "Feb",
+    "Inflation_Factor": 0.961074315
+  },
+  {
+    "Year": 2020,
+    "Month": "Feb",
+    "Inflation_Factor": 0.983514186
+  },
+  {
+    "Year": 2021,
+    "Month": "Feb",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2000,
+    "Month": "Mar",
+    "Inflation_Factor": 0.646337734
+  },
+  {
+    "Year": 2001,
+    "Month": "Mar",
+    "Inflation_Factor": 0.66521442
+  },
+  {
+    "Year": 2002,
+    "Month": "Mar",
+    "Inflation_Factor": 0.675030297
+  },
+  {
+    "Year": 2003,
+    "Month": "Mar",
+    "Inflation_Factor": 0.695417118
+  },
+  {
+    "Year": 2004,
+    "Month": "Mar",
+    "Inflation_Factor": 0.707498197
+  },
+  {
+    "Year": 2005,
+    "Month": "Mar",
+    "Inflation_Factor": 0.729772687
+  },
+  {
+    "Year": 2006,
+    "Month": "Mar",
+    "Inflation_Factor": 0.754312379
+  },
+  {
+    "Year": 2007,
+    "Month": "Mar",
+    "Inflation_Factor": 0.775273051
+  },
+  {
+    "Year": 2008,
+    "Month": "Mar",
+    "Inflation_Factor": 0.806140208
+  },
+  {
+    "Year": 2009,
+    "Month": "Mar",
+    "Inflation_Factor": 0.803048207
+  },
+  {
+    "Year": 2010,
+    "Month": "Mar",
+    "Inflation_Factor": 0.821630417
+  },
+  {
+    "Year": 2011,
+    "Month": "Mar",
+    "Inflation_Factor": 0.843663285
+  },
+  {
+    "Year": 2012,
+    "Month": "Mar",
+    "Inflation_Factor": 0.866032158
+  },
+  {
+    "Year": 2013,
+    "Month": "Mar",
+    "Inflation_Factor": 0.878796574
+  },
+  {
+    "Year": 2014,
+    "Month": "Mar",
+    "Inflation_Factor": 0.892085761
+  },
+  {
+    "Year": 2015,
+    "Month": "Mar",
+    "Inflation_Factor": 0.891428852
+  },
+  {
+    "Year": 2016,
+    "Month": "Mar",
+    "Inflation_Factor": 0.899028606
+  },
+  {
+    "Year": 2017,
+    "Month": "Mar",
+    "Inflation_Factor": 0.920430992
+  },
+  {
+    "Year": 2018,
+    "Month": "Mar",
+    "Inflation_Factor": 0.942150508
+  },
+  {
+    "Year": 2019,
+    "Month": "Mar",
+    "Inflation_Factor": 0.959698275
+  },
+  {
+    "Year": 2020,
+    "Month": "Mar",
+    "Inflation_Factor": 0.97447117
+  },
+  {
+    "Year": 2021,
+    "Month": "Mar",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2000,
+    "Month": "Apr",
+    "Inflation_Factor": 0.641443304
+  },
+  {
+    "Year": 2001,
+    "Month": "Apr",
+    "Inflation_Factor": 0.662412845
+  },
+  {
+    "Year": 2002,
+    "Month": "Apr",
+    "Inflation_Factor": 0.673272072
+  },
+  {
+    "Year": 2003,
+    "Month": "Apr",
+    "Inflation_Factor": 0.688250316
+  },
+  {
+    "Year": 2004,
+    "Month": "Apr",
+    "Inflation_Factor": 0.703977473
+  },
+  {
+    "Year": 2005,
+    "Month": "Apr",
+    "Inflation_Factor": 0.728691575
+  },
+  {
+    "Year": 2006,
+    "Month": "Apr",
+    "Inflation_Factor": 0.754529047
+  },
+  {
+    "Year": 2007,
+    "Month": "Apr",
+    "Inflation_Factor": 0.77394834
+  },
+  {
+    "Year": 2008,
+    "Month": "Apr",
+    "Inflation_Factor": 0.804417833
+  },
+  {
+    "Year": 2009,
+    "Month": "Apr",
+    "Inflation_Factor": 0.798490193
+  },
+  {
+    "Year": 2010,
+    "Month": "Apr",
+    "Inflation_Factor": 0.816348005
+  },
+  {
+    "Year": 2011,
+    "Month": "Apr",
+    "Inflation_Factor": 0.842174242
+  },
+  {
+    "Year": 2012,
+    "Month": "Apr",
+    "Inflation_Factor": 0.861567323
+  },
+  {
+    "Year": 2013,
+    "Month": "Apr",
+    "Inflation_Factor": 0.87072652
+  },
+  {
+    "Year": 2014,
+    "Month": "Apr",
+    "Inflation_Factor": 0.887730571
+  },
+  {
+    "Year": 2015,
+    "Month": "Apr",
+    "Inflation_Factor": 0.885959394
+  },
+  {
+    "Year": 2016,
+    "Month": "Apr",
+    "Inflation_Factor": 0.895927415
+  },
+  {
+    "Year": 2017,
+    "Month": "Apr",
+    "Inflation_Factor": 0.91563504
+  },
+  {
+    "Year": 2018,
+    "Month": "Apr",
+    "Inflation_Factor": 0.938184787
+  },
+  {
+    "Year": 2019,
+    "Month": "Apr",
+    "Inflation_Factor": 0.956915081
+  },
+  {
+    "Year": 2020,
+    "Month": "Apr",
+    "Inflation_Factor": 0.960064257
+  },
+  {
+    "Year": 2021,
+    "Month": "Apr",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2000,
+    "Month": "May",
+    "Inflation_Factor": 0.637084641
+  },
+  {
+    "Year": 2001,
+    "Month": "May",
+    "Inflation_Factor": 0.660116273
+  },
+  {
+    "Year": 2002,
+    "Month": "May",
+    "Inflation_Factor": 0.667917309
+  },
+  {
+    "Year": 2003,
+    "Month": "May",
+    "Inflation_Factor": 0.681661992
+  },
+  {
+    "Year": 2004,
+    "Month": "May",
+    "Inflation_Factor": 0.702464756
+  },
+  {
+    "Year": 2005,
+    "Month": "May",
+    "Inflation_Factor": 0.722153086
+  },
+  {
+    "Year": 2006,
+    "Month": "May",
+    "Inflation_Factor": 0.752242798
+  },
+  {
+    "Year": 2007,
+    "Month": "May",
+    "Inflation_Factor": 0.77248463
+  },
+  {
+    "Year": 2008,
+    "Month": "May",
+    "Inflation_Factor": 0.804740058
+  },
+  {
+    "Year": 2009,
+    "Month": "May",
+    "Inflation_Factor": 0.794427831
+  },
+  {
+    "Year": 2010,
+    "Month": "May",
+    "Inflation_Factor": 0.810483107
+  },
+  {
+    "Year": 2011,
+    "Month": "May",
+    "Inflation_Factor": 0.839406378
+  },
+  {
+    "Year": 2012,
+    "Month": "May",
+    "Inflation_Factor": 0.853711993
+  },
+  {
+    "Year": 2013,
+    "Month": "May",
+    "Inflation_Factor": 0.865339252
+  },
+  {
+    "Year": 2014,
+    "Month": "May",
+    "Inflation_Factor": 0.883745983
+  },
+  {
+    "Year": 2015,
+    "Month": "May",
+    "Inflation_Factor": 0.883393079
+  },
+  {
+    "Year": 2016,
+    "Month": "May",
+    "Inflation_Factor": 0.892397704
+  },
+  {
+    "Year": 2017,
+    "Month": "May",
+    "Inflation_Factor": 0.90912907
+  },
+  {
+    "Year": 2018,
+    "Month": "May",
+    "Inflation_Factor": 0.934593882
+  },
+  {
+    "Year": 2019,
+    "Month": "May",
+    "Inflation_Factor": 0.951325247
+  },
+  {
+    "Year": 2020,
+    "Month": "May",
+    "Inflation_Factor": 0.952447111
+  },
+  {
+    "Year": 2021,
+    "Month": "May",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2000,
+    "Month": "Jun",
+    "Inflation_Factor": 0.634532713
+  },
+  {
+    "Year": 2001,
+    "Month": "Jun",
+    "Inflation_Factor": 0.655143984
+  },
+  {
+    "Year": 2002,
+    "Month": "Jun",
+    "Inflation_Factor": 0.662137094
+  },
+  {
+    "Year": 2003,
+    "Month": "Jun",
+    "Inflation_Factor": 0.676123314
+  },
+  {
+    "Year": 2004,
+    "Month": "Jun",
+    "Inflation_Factor": 0.698206819
+  },
+  {
+    "Year": 2005,
+    "Month": "Jun",
+    "Inflation_Factor": 0.715873623
+  },
+  {
+    "Year": 2006,
+    "Month": "Jun",
+    "Inflation_Factor": 0.746790531
+  },
+  {
+    "Year": 2007,
+    "Month": "Jun",
+    "Inflation_Factor": 0.766857076
+  },
+  {
+    "Year": 2008,
+    "Month": "Jun",
+    "Inflation_Factor": 0.805367028
+  },
+  {
+    "Year": 2009,
+    "Month": "Jun",
+    "Inflation_Factor": 0.793876244
+  },
+  {
+    "Year": 2010,
+    "Month": "Jun",
+    "Inflation_Factor": 0.802238531
+  },
+  {
+    "Year": 2011,
+    "Month": "Jun",
+    "Inflation_Factor": 0.830788823
+  },
+  {
+    "Year": 2012,
+    "Month": "Jun",
+    "Inflation_Factor": 0.844613097
+  },
+  {
+    "Year": 2013,
+    "Month": "Jun",
+    "Inflation_Factor": 0.859431129
+  },
+  {
+    "Year": 2014,
+    "Month": "Jun",
+    "Inflation_Factor": 0.877241476
+  },
+  {
+    "Year": 2015,
+    "Month": "Jun",
+    "Inflation_Factor": 0.878327248
+  },
+  {
+    "Year": 2016,
+    "Month": "Jun",
+    "Inflation_Factor": 0.887087038
+  },
+  {
+    "Year": 2017,
+    "Month": "Jun",
+    "Inflation_Factor": 0.901577498
+  },
+  {
+    "Year": 2018,
+    "Month": "Jun",
+    "Inflation_Factor": 0.927466728
+  },
+  {
+    "Year": 2019,
+    "Month": "Jun",
+    "Inflation_Factor": 0.942755874
+  },
+  {
+    "Year": 2020,
+    "Month": "Jun",
+    "Inflation_Factor": 0.94884356
+  },
+  {
+    "Year": 2021,
+    "Month": "Jun",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2000,
+    "Month": "Jul",
+    "Inflation_Factor": 0.632960077
+  },
+  {
+    "Year": 2001,
+    "Month": "Jul",
+    "Inflation_Factor": 0.650176005
+  },
+  {
+    "Year": 2002,
+    "Month": "Jul",
+    "Inflation_Factor": 0.65969971
+  },
+  {
+    "Year": 2003,
+    "Month": "Jul",
+    "Inflation_Factor": 0.673618971
+  },
+  {
+    "Year": 2004,
+    "Month": "Jul",
+    "Inflation_Factor": 0.69376527
+  },
+  {
+    "Year": 2005,
+    "Month": "Jul",
+    "Inflation_Factor": 0.71574305
+  },
+  {
+    "Year": 2006,
+    "Month": "Jul",
+    "Inflation_Factor": 0.745413054
+  },
+  {
+    "Year": 2007,
+    "Month": "Jul",
+    "Inflation_Factor": 0.762991615
+  },
+  {
+    "Year": 2008,
+    "Month": "Jul",
+    "Inflation_Factor": 0.805720084
+  },
+  {
+    "Year": 2009,
+    "Month": "Jul",
+    "Inflation_Factor": 0.788822833
+  },
+  {
+    "Year": 2010,
+    "Month": "Jul",
+    "Inflation_Factor": 0.798566316
+  },
+  {
+    "Year": 2011,
+    "Month": "Jul",
+    "Inflation_Factor": 0.82754402
+  },
+  {
+    "Year": 2012,
+    "Month": "Jul",
+    "Inflation_Factor": 0.839199569
+  },
+  {
+    "Year": 2013,
+    "Month": "Jul",
+    "Inflation_Factor": 0.855653601
+  },
+  {
+    "Year": 2014,
+    "Month": "Jul",
+    "Inflation_Factor": 0.872701033
+  },
+  {
+    "Year": 2015,
+    "Month": "Jul",
+    "Inflation_Factor": 0.87418087
+  },
+  {
+    "Year": 2016,
+    "Month": "Jul",
+    "Inflation_Factor": 0.88141156
+  },
+  {
+    "Year": 2017,
+    "Month": "Jul",
+    "Inflation_Factor": 0.896642161
+  },
+  {
+    "Year": 2018,
+    "Month": "Jul",
+    "Inflation_Factor": 0.923088757
+  },
+  {
+    "Year": 2019,
+    "Month": "Jul",
+    "Inflation_Factor": 0.939810185
+  },
+  {
+    "Year": 2020,
+    "Month": "Jul",
+    "Inflation_Factor": 0.949077483
+  },
+  {
+    "Year": 2021,
+    "Month": "Jul",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2000,
+    "Month": "Aug",
+    "Inflation_Factor": 0.631655134
+  },
+  {
+    "Year": 2001,
+    "Month": "Aug",
+    "Inflation_Factor": 0.648835569
+  },
+  {
+    "Year": 2002,
+    "Month": "Aug",
+    "Inflation_Factor": 0.660532886
+  },
+  {
+    "Year": 2003,
+    "Month": "Aug",
+    "Inflation_Factor": 0.674788991
+  },
+  {
+    "Year": 2004,
+    "Month": "Aug",
+    "Inflation_Factor": 0.692700508
+  },
+  {
+    "Year": 2005,
+    "Month": "Aug",
+    "Inflation_Factor": 0.717922849
+  },
+  {
+    "Year": 2006,
+    "Month": "Aug",
+    "Inflation_Factor": 0.745338436
+  },
+  {
+    "Year": 2007,
+    "Month": "Aug",
+    "Inflation_Factor": 0.760022225
+  },
+  {
+    "Year": 2008,
+    "Month": "Aug",
+    "Inflation_Factor": 0.800849518
+  },
+  {
+    "Year": 2009,
+    "Month": "Aug",
+    "Inflation_Factor": 0.788962119
+  },
+  {
+    "Year": 2010,
+    "Month": "Aug",
+    "Inflation_Factor": 0.798020229
+  },
+  {
+    "Year": 2011,
+    "Month": "Aug",
+    "Inflation_Factor": 0.828115233
+  },
+  {
+    "Year": 2012,
+    "Month": "Aug",
+    "Inflation_Factor": 0.842130081
+  },
+  {
+    "Year": 2013,
+    "Month": "Aug",
+    "Inflation_Factor": 0.854916711
+  },
+  {
+    "Year": 2014,
+    "Month": "Aug",
+    "Inflation_Factor": 0.869446973
+  },
+  {
+    "Year": 2015,
+    "Month": "Aug",
+    "Inflation_Factor": 0.871143084
+  },
+  {
+    "Year": 2016,
+    "Month": "Aug",
+    "Inflation_Factor": 0.880402241
+  },
+  {
+    "Year": 2017,
+    "Month": "Aug",
+    "Inflation_Factor": 0.897473014
+  },
+  {
+    "Year": 2018,
+    "Month": "Aug",
+    "Inflation_Factor": 0.921697427
+  },
+  {
+    "Year": 2019,
+    "Month": "Aug",
+    "Inflation_Factor": 0.937825103
+  },
+  {
+    "Year": 2020,
+    "Month": "Aug",
+    "Inflation_Factor": 0.950107286
+  },
+  {
+    "Year": 2021,
+    "Month": "Aug",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2000,
+    "Month": "Sep",
+    "Inflation_Factor": 0.633225183
+  },
+  {
+    "Year": 2001,
+    "Month": "Sep",
+    "Inflation_Factor": 0.649994532
+  },
+  {
+    "Year": 2002,
+    "Month": "Sep",
+    "Inflation_Factor": 0.65983741
+  },
+  {
+    "Year": 2003,
+    "Month": "Sep",
+    "Inflation_Factor": 0.675148555
+  },
+  {
+    "Year": 2004,
+    "Month": "Sep",
+    "Inflation_Factor": 0.692282454
+  },
+  {
+    "Year": 2005,
+    "Month": "Sep",
+    "Inflation_Factor": 0.724727498
+  },
+  {
+    "Year": 2006,
+    "Month": "Sep",
+    "Inflation_Factor": 0.739674091
+  },
+  {
+    "Year": 2007,
+    "Month": "Sep",
+    "Inflation_Factor": 0.760052495
+  },
+  {
+    "Year": 2008,
+    "Month": "Sep",
+    "Inflation_Factor": 0.797575735
+  },
+  {
+    "Year": 2009,
+    "Month": "Sep",
+    "Inflation_Factor": 0.787317269
+  },
+  {
+    "Year": 2010,
+    "Month": "Sep",
+    "Inflation_Factor": 0.79632168
+  },
+  {
+    "Year": 2011,
+    "Month": "Sep",
+    "Inflation_Factor": 0.827126244
+  },
+  {
+    "Year": 2012,
+    "Month": "Sep",
+    "Inflation_Factor": 0.843596661
+  },
+  {
+    "Year": 2013,
+    "Month": "Sep",
+    "Inflation_Factor": 0.853592651
+  },
+  {
+    "Year": 2014,
+    "Month": "Sep",
+    "Inflation_Factor": 0.867744523
+  },
+  {
+    "Year": 2015,
+    "Month": "Sep",
+    "Inflation_Factor": 0.867431009
+  },
+  {
+    "Year": 2016,
+    "Month": "Sep",
+    "Inflation_Factor": 0.880128322
+  },
+  {
+    "Year": 2017,
+    "Month": "Sep",
+    "Inflation_Factor": 0.899781269
+  },
+  {
+    "Year": 2018,
+    "Month": "Sep",
+    "Inflation_Factor": 0.920269039
+  },
+  {
+    "Year": 2019,
+    "Month": "Sep",
+    "Inflation_Factor": 0.936017644
+  },
+  {
+    "Year": 2020,
+    "Month": "Sep",
+    "Inflation_Factor": 0.948853487
+  },
+  {
+    "Year": 2021,
+    "Month": "Sep",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2000,
+    "Month": "Oct",
+    "Inflation_Factor": 0.629092263
+  },
+  {
+    "Year": 2001,
+    "Month": "Oct",
+    "Inflation_Factor": 0.642469513
+  },
+  {
+    "Year": 2002,
+    "Month": "Oct",
+    "Inflation_Factor": 0.655485215
+  },
+  {
+    "Year": 2003,
+    "Month": "Oct",
+    "Inflation_Factor": 0.668862464
+  },
+  {
+    "Year": 2004,
+    "Month": "Oct",
+    "Inflation_Factor": 0.690193753
+  },
+  {
+    "Year": 2005,
+    "Month": "Oct",
+    "Inflation_Factor": 0.720202177
+  },
+  {
+    "Year": 2006,
+    "Month": "Oct",
+    "Inflation_Factor": 0.729602406
+  },
+  {
+    "Year": 2007,
+    "Month": "Oct",
+    "Inflation_Factor": 0.75540242
+  },
+  {
+    "Year": 2008,
+    "Month": "Oct",
+    "Inflation_Factor": 0.783013786
+  },
+  {
+    "Year": 2009,
+    "Month": "Oct",
+    "Inflation_Factor": 0.781582059
+  },
+  {
+    "Year": 2010,
+    "Month": "Oct",
+    "Inflation_Factor": 0.790743667
+  },
+  {
+    "Year": 2011,
+    "Month": "Oct",
+    "Inflation_Factor": 0.818618962
+  },
+  {
+    "Year": 2012,
+    "Month": "Oct",
+    "Inflation_Factor": 0.836320316
+  },
+  {
+    "Year": 2013,
+    "Month": "Oct",
+    "Inflation_Factor": 0.844379205
+  },
+  {
+    "Year": 2014,
+    "Month": "Oct",
+    "Inflation_Factor": 0.858432548
+  },
+  {
+    "Year": 2015,
+    "Month": "Oct",
+    "Inflation_Factor": 0.859896814
+  },
+  {
+    "Year": 2016,
+    "Month": "Oct",
+    "Inflation_Factor": 0.873964619
+  },
+  {
+    "Year": 2017,
+    "Month": "Oct",
+    "Inflation_Factor": 0.891803362
+  },
+  {
+    "Year": 2018,
+    "Month": "Oct",
+    "Inflation_Factor": 0.914298833
+  },
+  {
+    "Year": 2019,
+    "Month": "Oct",
+    "Inflation_Factor": 0.930427457
+  },
+  {
+    "Year": 2020,
+    "Month": "Oct",
+    "Inflation_Factor": 0.941425726
+  },
+  {
+    "Year": 2021,
+    "Month": "Oct",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2000,
+    "Month": "Nov",
+    "Inflation_Factor": 0.669026127
+  },
+  {
+    "Year": 2001,
+    "Month": "Nov",
+    "Inflation_Factor": 0.681707266
+  },
+  {
+    "Year": 2002,
+    "Month": "Nov",
+    "Inflation_Factor": 0.696694066
+  },
+  {
+    "Year": 2003,
+    "Month": "Nov",
+    "Inflation_Factor": 0.708990927
+  },
+  {
+    "Year": 2004,
+    "Month": "Nov",
+    "Inflation_Factor": 0.733968927
+  },
+  {
+    "Year": 2005,
+    "Month": "Nov",
+    "Inflation_Factor": 0.759331204
+  },
+  {
+    "Year": 2006,
+    "Month": "Nov",
+    "Inflation_Factor": 0.774318005
+  },
+  {
+    "Year": 2007,
+    "Month": "Nov",
+    "Inflation_Factor": 0.807661713
+  },
+  {
+    "Year": 2008,
+    "Month": "Nov",
+    "Inflation_Factor": 0.816300259
+  },
+  {
+    "Year": 2009,
+    "Month": "Nov",
+    "Inflation_Factor": 0.831306273
+  },
+  {
+    "Year": 2010,
+    "Month": "Nov",
+    "Inflation_Factor": 0.840809441
+  },
+  {
+    "Year": 2011,
+    "Month": "Nov",
+    "Inflation_Factor": 0.869349688
+  },
+  {
+    "Year": 2012,
+    "Month": "Nov",
+    "Inflation_Factor": 0.88468618
+  },
+  {
+    "Year": 2013,
+    "Month": "Nov",
+    "Inflation_Factor": 0.895630387
+  },
+  {
+    "Year": 2014,
+    "Month": "Nov",
+    "Inflation_Factor": 0.907473802
+  },
+  {
+    "Year": 2015,
+    "Month": "Nov",
+    "Inflation_Factor": 0.912027483
+  },
+  {
+    "Year": 2016,
+    "Month": "Nov",
+    "Inflation_Factor": 0.927463888
+  },
+  {
+    "Year": 2017,
+    "Month": "Nov",
+    "Inflation_Factor": 0.947892049
+  },
+  {
+    "Year": 2018,
+    "Month": "Nov",
+    "Inflation_Factor": 0.968523877
+  },
+  {
+    "Year": 2019,
+    "Month": "Nov",
+    "Inflation_Factor": 0.988390994
+  },
+  {
+    "Year": 2020,
+    "Month": "Nov",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2021,
+    "Month": "Nov",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2000,
+    "Month": "Dec",
+    "Inflation_Factor": 0.66801293
+  },
+  {
+    "Year": 2001,
+    "Month": "Dec",
+    "Inflation_Factor": 0.678378648
+  },
+  {
+    "Year": 2002,
+    "Month": "Dec",
+    "Inflation_Factor": 0.694503098
+  },
+  {
+    "Year": 2003,
+    "Month": "Dec",
+    "Inflation_Factor": 0.707556224
+  },
+  {
+    "Year": 2004,
+    "Month": "Dec",
+    "Inflation_Factor": 0.730591153
+  },
+  {
+    "Year": 2005,
+    "Month": "Dec",
+    "Inflation_Factor": 0.755545659
+  },
+  {
+    "Year": 2006,
+    "Month": "Dec",
+    "Inflation_Factor": 0.774741433
+  },
+  {
+    "Year": 2007,
+    "Month": "Dec",
+    "Inflation_Factor": 0.806360712
+  },
+  {
+    "Year": 2008,
+    "Month": "Dec",
+    "Inflation_Factor": 0.807097829
+  },
+  {
+    "Year": 2009,
+    "Month": "Dec",
+    "Inflation_Factor": 0.829061634
+  },
+  {
+    "Year": 2010,
+    "Month": "Dec",
+    "Inflation_Factor": 0.841462104
+  },
+  {
+    "Year": 2011,
+    "Month": "Dec",
+    "Inflation_Factor": 0.866389736
+  },
+  {
+    "Year": 2012,
+    "Month": "Dec",
+    "Inflation_Factor": 0.881473775
+  },
+  {
+    "Year": 2013,
+    "Month": "Dec",
+    "Inflation_Factor": 0.89471118
+  },
+  {
+    "Year": 2014,
+    "Month": "Dec",
+    "Inflation_Factor": 0.90147961
+  },
+  {
+    "Year": 2015,
+    "Month": "Dec",
+    "Inflation_Factor": 0.908056082
+  },
+  {
+    "Year": 2016,
+    "Month": "Dec",
+    "Inflation_Factor": 0.926894815
+  },
+  {
+    "Year": 2017,
+    "Month": "Dec",
+    "Inflation_Factor": 0.946443791
+  },
+  {
+    "Year": 2018,
+    "Month": "Dec",
+    "Inflation_Factor": 0.964522371
+  },
+  {
+    "Year": 2019,
+    "Month": "Dec",
+    "Inflation_Factor": 0.986562958
+  },
+  {
+    "Year": 2020,
+    "Month": "Dec",
+    "Inflation_Factor": 1
+  },
+  {
+    "Year": 2021,
+    "Month": "Dec",
+    "Inflation_Factor": 1
+  }
+]
